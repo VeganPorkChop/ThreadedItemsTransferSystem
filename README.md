@@ -31,7 +31,9 @@ Success is measured through a 90% accuracy in sorting and zero total jams in the
 ### Flow Chart
 
 ```mermaid
-
+---
+title: TITS Flow Chart
+---
 graph LR
 A[Everything]
     A -->B{{ The _ Machine. }}
