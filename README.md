@@ -62,7 +62,9 @@ A[Everything]
 
 ```mermaid
 
-gantt    
+gantt
+    tickInterval 1week
+    weekday monday
     dateFormat  YYYY-MM-DD
     title       Timeline of Project
     excludes    weekends
@@ -75,7 +77,7 @@ gantt
 
     section Modules That Graham Has To Do
 
-    Integration Days
+    section Integration Days
 
     section School Breaks 
     Labor Day : 2024-09-02, 1d
@@ -84,5 +86,7 @@ gantt
     Teacher Workday : 2024-11-4, 1d
     Teacher Workday : 2024-11-5, 1d
     Thanksgiving Break : 2024-11-27, 3d
+
+    Project Due : mileston, 
     
 ```
