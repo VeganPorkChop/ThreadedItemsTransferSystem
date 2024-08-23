@@ -56,6 +56,33 @@ A[Everything]
     S -->T{{ The _ Machine }}
     T -->U[Nuts]
     T -->V[Lock Nuts]
+```
+
+### Timeline
+
+```mermaid
+
+gantt    
+    dateFormat  YYYY-MM-DD
+    title       Timeline of Project
+    excludes    weekends
+
+    section Documentation
+    Documentation : 2024-08-23, 3m
+
+    section Modules That Jakob Has To Do
     
 
+    section Modules That Graham Has To Do
+
+    Integration Days
+
+    section School Breaks 
+    Labor Day : 2024-09-02, 1d
+    Professional Learning Day : 2024-09-22, 1d
+    Teacher Workday : 2024-10-18, 1d
+    Teacher Workday : 2024-11-4, 1d
+    Teacher Workday : 2024-11-5, 1d
+    Thanksgiving Break : 2024-11-27, 3d
+    
 ```
