@@ -1,4 +1,4 @@
-# AutomaticScrewSorter
+# Threaded Items Transfer System
 # Planning
 ## Problem
 
@@ -87,6 +87,6 @@ gantt
     Teacher Workday : 2024-11-5, 1d
     Thanksgiving Break : 2024-11-27, 3d
 
-    Project Due : mileston, 
+    Project Due : milestone, 2024-12-08, 1d
     
 ```
