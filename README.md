@@ -67,15 +67,15 @@ gantt
     weekday monday
     dateFormat  YYYY-MM-DD
     title       Timeline of Project
-    excludes    weekends
-
-    section Documentation
-    Documentation : 2024-08-23, 3m
-
-    section Modules That Jakob Has To Do
-    
 
     section Modules That Graham Has To Do
+    Cylinder Sorter : 2024-8-26, 3w
+    Washer Track : 2024-9-16, 2w
+    Bolt Sizer : 2024-9-30, 4w
+    Documenting So Far : 2024-10-28, 2w
+    Integration : 2024-11-11, 3w
+
+    section Modules That Jakob Has To Do
 
     section Integration Days
 
