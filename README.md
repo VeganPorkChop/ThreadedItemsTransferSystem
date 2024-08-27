@@ -76,8 +76,11 @@ gantt
     Integration : 2024-11-11, 3w
 
     section Modules That Jakob Has To Do
-
-    section Integration Days
+    Input Control System : 2024-8-26, 3w
+    Initial Screenings #1 : 2024-9-16, 2w
+    Bolt Sizer : 2024-9-30, 4w
+    Initial Screenings #2 : 2024-10-28, 2w
+    Integration : 2024-11-11, 3w
 
     section School Breaks 
     Labor Day : 2024-09-02, 1d
