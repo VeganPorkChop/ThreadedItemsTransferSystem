@@ -74,6 +74,7 @@ gantt
     Bolt Sizer : 2024-9-30, 4w
     Documenting So Far : 2024-10-28, 2w
     Integration : 2024-11-11, 3w
+    Finish Documentation : 2024-12-2, 1w
 
     section Modules That Jakob Has To Do
     Input Control System : 2024-8-26, 3w
@@ -81,6 +82,7 @@ gantt
     Bolt Sizer : 2024-9-30, 4w
     Initial Screenings #2 : 2024-10-28, 2w
     Integration : 2024-11-11, 3w
+    Finish Documentation : 2024-12-2, 1w
 
     section School Breaks 
     Labor Day : 2024-09-02, 1d
