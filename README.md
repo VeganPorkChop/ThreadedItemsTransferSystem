@@ -95,3 +95,7 @@ gantt
     Project Due : milestone, 2024-12-08, 1d
     
 ```
+
+# SYSTEMS DOCUMENTATION
+## Cylindrical Sorter
+There was a change of plans: the cylindrical sorter is now going to sort bolts, nuts, washers, and standoffs. The reason we're removing the washer track is because the cylindrical sorter works perfectly fine as a replacement and it is one less thing to design if we remove it.
