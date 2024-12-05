@@ -119,7 +119,7 @@ Each wall has a section taken out of it, a cut from the floor of the hexagon to 
 ### HOW TO FIX ME?
 There are only a few things that could go wrong with this design.
 * The Acrylic Cracks
-If this happens, just replace it. There are many redundant screws on the design, so even if one slot falls off or breaks it [should be ok.](Docs)
+If this happens, just replace it. There are many redundant screws on the design, so even if one slot falls off or breaks it [should be ok.](#Docs)
 * Its Connection Breaks
 
 # HOW TO FIX?
