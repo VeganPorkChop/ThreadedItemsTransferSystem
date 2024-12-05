@@ -98,7 +98,30 @@ gantt
 
 # SYSTEMS DOCUMENTATION
 ## The New Plan
-## Cylindrical Sorter
-There was a change of plans: the cylindrical sorter is now going to sort bolts, nuts, washers, and standoffs. The reason we're removing the washer track is because the cylindrical sorter works perfectly fine as a replacement and it is one less thing to design if we remove it.
+Forget that whole plan you just saw. This is the actual plan, we realized very quickly that the hexagons could do the whole thing.
+```mermaid
+---
+title: TITS Flow Chart
+---
+graph LR
+A[Everything] --> B[Everything] & C[Standoffs]
+B --> D[Everything] & E[Lock Nuts]
+D --> F[Everything] & G[Bolts]
+F --> H[Everything] & I[Normal Nuts]
+H --> J[Small Nuts and Bolts] & K[Washers]
+
+
+```
+## Hexagonal Sorter
+![NutsFrumScroos](https://github.com/user-attachments/assets/577fb2f7-2d89-4c10-be38-7b475fd13abc)
+Each wall has a section taken out of it, a cut from the floor of the hexagon to a specific height. That height is measured to match the size of a particular object that this hexagon is designed to catch. In other words, think of it like a net. If you want to catch big fish, you don't use a closely knit/stitched net, you use a net with lots of space between the string to let the smaller fish fall through. Our stackable design is like fishing for hardware. We increasingly shrink the size of the net, from catfish catching size, to minnow catching size. In this case, minnows are our washers.
+
+### HOW TO FIX ME?
+There are only a few things that could go wrong with this design.
+* The Acrylic Cracks
+If this happens, just replace it. There are many redundant screws on the design, so even if one slot falls off or breaks it [should be ok.](Docs)
+* Its Connection Breaks
 
 # HOW TO FIX?
+## Docs
+[ONSHAPE:](https://cvilleschools.onshape.com/documents/672aa126c75f0bf0336b9dc3/w/92cd48f3c5af96a529a629e5/e/90918945a4e4bde3b3b8e3b7)
