@@ -121,6 +121,7 @@ There are only a few things that could go wrong with this design.
 * The Acrylic Cracks
 If this happens, just replace it. There are many redundant screws on the design, so even if one slot falls off or breaks it [should be ok.](#Docs)
 * Its Connection Breaks
+This is about the servo cap and servo connections with the hexagon. In this scenario, reprint the cap. We used the 4-way servo heads, and tiny bolts to secure the servo head to the servo cap.
 
 # HOW TO FIX?
 ## Docs
