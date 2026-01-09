@@ -114,6 +114,7 @@ H --> J[Small Nuts and Bolts] & K[Washers]
 ```
 ## Hexagonal Sorter
 ![NutsFrumScroos](https://github.com/user-attachments/assets/577fb2f7-2d89-4c10-be38-7b475fd13abc)
+<img width="5095" height="3296" alt="PVC pipe module" src="https://github.com/user-attachments/assets/76abc1a7-f9ce-4df1-ab94-a7332ed5ec53" />
 Each wall has a section taken out of it, a cut from the floor of the hexagon to a specific height. That height is measured to match the size of a particular object that this hexagon is designed to catch. In other words, think of it like a net. If you want to catch big fish, you don't use a closely knit/stitched net, you use a net with lots of space between the string to let the smaller fish fall through. Our stackable design is like fishing for hardware. We increasingly shrink the size of the net, from catfish catching size, to minnow catching size. In this case, minnows are our washers.
 
 ### HOW TO FIX ME?
