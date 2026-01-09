@@ -117,6 +117,14 @@ H --> J[Small Nuts and Bolts] & K[Washers]
 <img width="5095" height="3296" alt="PVC pipe module" src="https://github.com/user-attachments/assets/76abc1a7-f9ce-4df1-ab94-a7332ed5ec53" />
 Each wall has a section taken out of it, a cut from the floor of the hexagon to a specific height. That height is measured to match the size of a particular object that this hexagon is designed to catch. In other words, think of it like a net. If you want to catch big fish, you don't use a closely knit/stitched net, you use a net with lots of space between the string to let the smaller fish fall through. Our stackable design is like fishing for hardware. We increasingly shrink the size of the net, from catfish catching size, to minnow catching size. In this case, minnows are our washers.
 
+## Final Pictures
+![IMG_2047 (1)](https://github.com/user-attachments/assets/afdb7652-3bf0-4dcf-9d11-d9fe65689313)
+![IMG_2049 (1)](https://github.com/user-attachments/assets/5601f3ec-32ba-4596-885a-106949b59158)
+![IMG_2048 (1)](https://github.com/user-attachments/assets/96dcd6a7-66b5-4d96-aa7e-74c0b23d1816)
+![IMG_2046 (2)](https://github.com/user-attachments/assets/a12b3dcb-eea2-4d73-80e8-bcfd5c5ebe67)
+![IMG_2045 (2)](https://github.com/user-attachments/assets/2685659a-ddf4-41e9-b3b0-efc49692822d)
+
+
 ### HOW TO FIX ME?
 There are only a few things that could go wrong with this design.
 * The Acrylic Cracks
